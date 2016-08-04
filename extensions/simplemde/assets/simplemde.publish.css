@@ -1,0 +1,82 @@
+/* forced line-breaks */
+.cm-trailing-space-new-line:before {
+  content: '¬';
+  color: red;
+}
+
+/* button size */
+.editor-toolbar a:before {
+  font-size: 15px;
+}
+
+/* Editor font */
+.CodeMirror {
+  font-size: 110%;
+}
+
+/* Heading size */
+.CodeMirror .CodeMirror-code .cm-header-1 {
+  font-size: 150%;
+  line-height: 120%;
+}
+
+.CodeMirror .CodeMirror-code .cm-header-2 {
+  font-size: 130%;
+  line-height: 120%;
+}
+
+.CodeMirror .CodeMirror-code .cm-header-3 {
+  font-size: 110%;
+  line-height: 120%;
+}
+
+.CodeMirror .CodeMirror-code .cm-header-4,
+.CodeMirror .CodeMirror-code .cm-header-5 {
+  font-size: 100%;
+  line-height: 100%;
+}
+
+.field-simplemde {
+  margin-bottom: 2.1rem;
+}
+
+.CodeMirror, .CodeMirror-scroll {
+  min-height: 2.6rem;
+}
+
+.CodeMirror {
+  border-color: rgba(0, 0, 0, 0.25);
+  border-top-color: rgba(0, 0, 0, 0.125);
+  padding: 0.8rem 0.8rem 0.7rem 0.8rem;
+}
+
+.editor-toolbar {
+  margin-top: 0.2rem;
+  opacity: 1 !important;
+  border-color: rgba(0, 0, 0, 0.25);
+  background-color: rgb(246, 246, 246);
+  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+}
+
+.editor-toolbar::before,
+.editor-toolbar::after {
+  margin: 0;
+}
+
+.editor-toolbar a {
+  height: 3rem;
+  width: 3rem;
+  opacity: 1;
+  color: rgba(85, 85, 85, 0.75) !important; 
+}
+
+.editor-toolbar a.active,
+.editor-toolbar a:hover {
+  color: rgb(60, 60, 60) !important;
+  border-color: rgba(0, 0, 0, 0.15) !important;
+}
+
+.editor-toolbar a.active:not(:hover) {
+  background: transparent;
+  border-color: rgba(0, 0, 0, 0) !important;
+}

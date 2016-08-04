@@ -1,0 +1,233 @@
+============================================
+Log Created: 2016-07-31T16:49:59+02:00
+============================================
+Symphony Log
+Opened:  2016-07-31T16:49:59+02:00
+Version: 2.6.7
+Domain:  127.0.0.1/flowershop
+--------------------------------------------
+31.07.2016 16:59:47 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/supersecret/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 17:04:52 > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 22:12:17 > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 23:12:08 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/supersecret/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 23:19:25 > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 23:19:55 > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+31.07.2016 23:34:06 > User Notice: FrontendPageNotFoundException 1024 - The page you requested does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+01.08.2016 20:56:34 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 15 element template
+Line: 156 - XSLTProcessor::importStylesheet(): element template only allowed as child of stylesheet
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+01.08.2016 20:56:47 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 15 element template
+Line: 156 - XSLTProcessor::importStylesheet(): element template only allowed as child of stylesheet
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+01.08.2016 21:03:10 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 15 element apply-templates
+Line: 156 - XSLTProcessor::importStylesheet(): The value '' of the attribute 'mode' is not a valid QName.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+01.08.2016 21:08:37 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 14 element apply-templates
+Line: 156 - XSLTProcessor::importStylesheet(): The value '' of the attribute 'mode' is not a valid QName.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+01.08.2016 21:09:13 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl:19: parser error : Opening and ending tag mismatch: img line 18 and xsl:template
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 156 - XSLTProcessor::importStylesheet():                ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl:21: parser error : Opening and ending tag mismatch: br line 18 and xsl:stylesheet
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 156 - XSLTProcessor::importStylesheet():                  ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl:21: parser error : Premature end of data in tag template line 17
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 156 - XSLTProcessor::importStylesheet():                  ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl:21: parser error : Premature end of data in tag stylesheet line 2
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 156 - XSLTProcessor::importStylesheet():                  ^
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:/Users/Damir%20Kuhada/Desktop/flowershop/ line 1 element import
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:import : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+01.08.2016 21:12:38 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 31 element apply-templates
+Line: 156 - XSLTProcessor::importStylesheet(): The value '' of the attribute 'mode' is not a valid QName.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+02.08.2016 10:32:47 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 10:32:47 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 10:32:48 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:14:30 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): I/O warning : failed to load external entity "file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/theme/index.xsl"
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 4 element include
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:include : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/theme/index.xsl
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+02.08.2016 11:15:01 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:15:01 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:15:01 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:15:02 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:16:35 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:16:35 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:16:35 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:16:44 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:17:26 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:19:21 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 11:27:58 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): I/O warning : failed to load external entity "file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/menu.xst"
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/index.xsl line 40 element include
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:include : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/menu.xst
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+02.08.2016 11:31:41 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): I/O warning : failed to load external entity "file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/home.xsl"
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/home.xsl line 5 element include
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:include : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/home.xsl
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+02.08.2016 12:03:29 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:03:29 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:03:30 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:03:41 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/css/index.css/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:05:21 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:05:21 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:05:23 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:07:40 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:07:40 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/resources/js/jquery.js/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:07:42 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/logo.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 12:13:49 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): I/O warning : failed to load external entity "file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partial/menu.xsl"
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/index.xsl line 39 element include
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:include : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partial/menu.xsl
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+02.08.2016 20:15:49 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/placehold.it/60x60/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:10:34 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-03.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:10:34 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-04.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:10:34 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-02.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:10:47 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-03.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:13:25 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-03.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:13:29 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-03.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:14:07 > UNKNOWN: JIT\JITImageNotFound 0 - Error loading image <code>/workspace/images/slider/flowers-03.jpg/</code>. Check it exists and is readable. on line 167 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.image.php
+02.08.2016 21:15:18 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-03.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:15:19 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-02.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:15:19 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/image/slider/images/slider/flowers-04.jpg/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+02.08.2016 21:29:24 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>preview/images/flowers/lotus-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+02.08.2016 21:29:24 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>preview/images/flowers/spathiphyllum-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+02.08.2016 21:29:24 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>preview/images/flowers/orchid-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 13:54:00 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/kalsjfkladsj/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 13:54:11 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/kalsjfkladsj/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 13:55:31 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/flowers/1/aksflkadsj/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 14:13:47 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 5 element variable
+Line: 156 - XSLTProcessor::importStylesheet(): The value '$base-url' of the attribute 'name' is not a valid QName.
+Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 5 element variable
+Line: 156 - XSLTProcessor::importStylesheet(): XSLT-variable: Failed to compile the XPath expression '$root/$root-page'.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+03.08.2016 14:14:03 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 5 element variable
+Line: 156 - XSLTProcessor::importStylesheet(): XSLT-variable: Failed to compile the XPath expression '$root/$root-page'.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+03.08.2016 14:28:15 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 22 element value-of
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{@current-page - 1}'
+Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 30 element value-of
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{@current-page - 2}'
+Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 40 element value-of
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{@current-page + 1}'
+Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/partials/pagination.xsl line 48 element value-of
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:value-of : could not compile select expression '{@current-page + 2}'
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+03.08.2016 16:54:50 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/pages/flowers.xsl line 10 element if
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:if : could not compile test expression 'contains($current-query-string, @handle}'
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+03.08.2016 22:22:57 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/theme/pages/flower.xsl line 12 element img
+Line: 156 - XSLTProcessor::importStylesheet(): Attribute 'src': The AVT has an unmatched '{'.
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+03.08.2016 22:23:13 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>main-image</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:32:00 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>main-image/images/flowers/orchid-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:32:00 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>gallery-thumb/images/flowers/orchid-02.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:32:00 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>gallery-thumb/images/flowers/orchid-03.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:32:01 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>gallery-thumb/images/flowers/orchid-04.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:43:12 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/next.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:43:12 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/prev.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:43:13 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/close.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:43:13 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/loading.gif/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:43:21 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>1/600//images/flowers/orchid-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:43:40 > UNKNOWN: JIT\JITParseParametersException 0 - No JIT filter was found for <code>1/600//images/flowers/orchid-01.jpg</code>. on line 313 of C:\Users\Damir Kuhada\Desktop\flowershop\extensions\jit_image_manipulation\lib\class.jit.php
+03.08.2016 22:44:02 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/prev.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:44:02 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/next.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:44:02 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/close.png/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+03.08.2016 22:44:02 > User Notice: FrontendPageNotFoundException 1024 - The page you requested, <code>/workspace/theme/resources/img/loading.gif/</code>, does not exist. on line 328 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\toolkit\class.frontendpage.php
+04.08.2016 13:14:16 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Variable 'value' has not been declared.
+Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 11 element month
+Line: 170 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'value'.
+Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element for-each
+Line: 170 - XSLTProcessor::transformToXml(): Failed to evaluate the 'select' expression. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:14:53 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element for-each
+Line: 170 - XSLTProcessor::transformToXml(): Failed to evaluate the 'select' expression. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:15:48 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element value-of
+Line: 170 - XSLTProcessor::transformToXml(): XPath evaluation returned no result. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:18:24 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function nodeset not found
+Line: 170 - XSLTProcessor::transformToXml(): Unregistered function
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element value-of
+Line: 170 - XSLTProcessor::transformToXml(): XPath evaluation returned no result. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:18:37 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function nodeset bound to undefined prefix exsl
+Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element value-of
+Line: 170 - XSLTProcessor::transformToXml(): XPath evaluation returned no result. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:21:26 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function node-set bound to undefined prefix exsl
+Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 23 element value-of
+Line: 170 - XSLTProcessor::transformToXml(): XPath evaluation returned no result. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 13:34:07 > UNKNOWN: SymphonyErrorPage 0 - Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:22: parser error : Opening and ending tag mismatch: variable line 18 and for-each
+Line: 156 - XSLTProcessor::importStylesheet(): 				</xsl:for-each>
+Line: 156 - XSLTProcessor::importStylesheet(): 				               ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:23: parser error : Opening and ending tag mismatch: for-each line 17 and month
+Line: 156 - XSLTProcessor::importStylesheet(): 			</month>
+Line: 156 - XSLTProcessor::importStylesheet(): 			        ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:24: parser error : Opening and ending tag mismatch: month line 16 and xsl:for-each
+Line: 156 - XSLTProcessor::importStylesheet(): 		</xsl:for-each>
+Line: 156 - XSLTProcessor::importStylesheet(): 		               ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:25: parser error : Opening and ending tag mismatch: for-each line 15 and variable
+Line: 156 - XSLTProcessor::importStylesheet(): 	</xsl:variable>
+Line: 156 - XSLTProcessor::importStylesheet(): 	               ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:30: parser error : Opening and ending tag mismatch: variable line 14 and template
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:template>
+Line: 156 - XSLTProcessor::importStylesheet():                ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:32: parser error : Opening and ending tag mismatch: template line 13 and stylesheet
+Line: 156 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 156 - XSLTProcessor::importStylesheet():                  ^
+Line: 156 - XSLTProcessor::importStylesheet(): file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl:33: parser error : Premature end of data in tag stylesheet line 2
+Line: 156 - XSLTProcessor::importStylesheet(): 
+Line: 156 - XSLTProcessor::importStylesheet(): ^
+Line: 156 - XSLTProcessor::importStylesheet(): compilation error: file file:///C:/Users/Damir%20Kuhada/Desktop/flowershop/ line 1 element import
+Line: 156 - XSLTProcessor::importStylesheet(): xsl:import : unable to load file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl
+Line: 170 - XSLTProcessor::transformToXml(): No stylesheet associated to this object on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 18:27:41 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function node-set bound to undefined prefix exsl
+Line: 170 - XSLTProcessor::transformToXml(): Invalid type
+Line: 170 - XSLTProcessor::transformToXml(): runtime error: file file:///C:%5CUsers%5CDamir%20Kuhada%5CDesktop%5Cflowershop/workspace/pages/report.xsl line 17 element for-each
+Line: 170 - XSLTProcessor::transformToXml(): Failed to evaluate the 'select' expression. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 18:31:36 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): Invalid type on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 18:31:51 > UNKNOWN: SymphonyErrorPage 0 - Line: 170 - XSLTProcessor::transformToXml(): Invalid type on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php
+04.08.2016 18:50:09 > UNKNOWN: SymphonyErrorPage 0 - Please login to view this page. <a href="http://localhost/flowershop/secret/login/">Take me to the login page</a>. on line 655 of C:\Users\Damir Kuhada\Desktop\flowershop\symphony\lib\core\class.symphony.php

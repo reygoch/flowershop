@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="simplemde" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>SimpleMDE Markdown Editor</name>
+	<description>Add SimpleMDE Markdown Editor to markdown enabled fields.</description>
+	<repo type="github">https://github.com/animaux/simplemde</repo>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="animaux" symphony="animaux">Alexander Rutz</name>
+			<website>http://animaux.de</website>
+		</author>
+	</authors>
+	<releases>
+        <release version="0.3" date="2016-03-22" min="2.6" max="2.x.x">
+			- Editor height now adapts to the row-settings of the textarea
+			- Use Symphony's default font settings (instead of monospace fonts)
+		</release>
+        <release version="0.2" date="2016-03-10" min="2.6" max="2.x.x">
+			- Now works with multiple markdown textareas
+			- No more JS Error when there’s no textarea on the page 
+		</release>
+		<release version="0.1.1" date="2016-03-09" min="2.6" max="2.x.x">
+			- Initial height = 1 line
+		</release>
+		<release version="0.1" date="2016-03-09" min="2.6" max="2.x.x">
+			- Initial Release
+		</release>
+	</releases>
+    <media>
+    	<item type="image" url="https://cloud.githubusercontent.com/assets/870227/13945847/d98efd0c-f010-11e5-85f5-bcbe38c930fa.png">Publish Area UI</item>
+    </media>
+</extension>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="ajax_checkbox" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Ajax Checkbox</name>
+	<description>
+		Makes the checkbox field editable inline in the table publish view.
+		Value is saved right away.
+	</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/ajax_checkbox</repo>
+	<url type="discuss">http://www.getsymphony.com/discuss/thread/111985/</url>
+	<url type="issues">https://github.com/DeuxHuitHuit/ajax_checkbox/issues</url>
+	<types>
+		<type>Field</type>
+		<type>Checkbox</type>
+		<type>Ajax</type>
+	</types>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com/</website>
+		</author>
+	</authors>
+	<dependencies>
+		<!-- None -->
+	</dependencies>
+	<releases>
+		<release version="1.4.0" date="2016-05-17" min="2.3.4" max="2.x.x">
+			- Added support for multilingual checkbox
+		</release>
+		<release version="1.3.1" date="2015-02-24" min="2.3.4" max="2.6.x">
+			- Fix bug on IE
+			- Mark as Symphony 2.6. compatible
+		</release>
+		<release version="1.3" date="2014-08-26" min="2.3.4" max="2.4.x">
+			- Fixed last column problem
+		</release>
+		<release version="1.2" date="2014-06-20" min="2.3.4" max="2.4.x">
+			- Better alerts
+		</release>
+		<release version="1.1" date="2014-06-13" min="2.3.4" max="2.4.x">
+			- Added support for xsrf token.
+		</release>
+		<release version="1.0" date="2014-01-16" min="2.3.4" max="2.3.6">
+			- First release
+		</release>
+	</releases>
+</extension>

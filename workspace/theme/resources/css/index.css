@@ -1,0 +1,164 @@
+@import url(core.css);
+@import url(grid.css);
+@import url(menu.css);
+
+a {
+	color: #c78585;
+}
+
+a:hover {
+	color: red;
+}
+
+body {
+	font: normal normal normal 15px/1.2em Calibri, sans-serif;
+	color: #333;
+	margin: 50px auto;
+	max-width: 900px;
+}
+
+.logo {
+	float: left;
+	margin-right: 20px;
+}
+
+.siteName,
+.siteSlogan {
+	margin: 0;
+	padding: 0;
+}
+
+.siteName {
+	line-height: 30px;
+}
+
+.siteSlogan {
+	line-height: 20px;
+}
+
+.mmenu {
+	text-align: right;
+}
+
+.mmenu > li {
+	margin-left: 10px;
+}
+
+.slider ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#slides {
+	border-radius: 3px;
+}
+
+.flowerName {
+	margin: 0;
+	line-height: 1;
+	color: #333;
+}
+
+.flowerName a {
+	color: #333;
+}
+
+.tags {
+	overflow: hidden;
+	position: relative;
+	white-space: nowrap;
+}
+
+.tags:after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	box-shadow: 0 0 10px 10px #fff;
+}
+
+.tags a {
+	color: #555;
+	padding: 0 5px;
+	display: block;
+	line-height: 15px;
+	border: 1px solid #555;
+	border-radius: 3px;
+	font-size: 12px;
+	transition: all 200ms ease;
+	background: #fff;
+}
+
+.tags a:hover {
+	color: #fff;
+	background: #333;
+}
+
+.tags li {
+	margin-right: 5px;
+}
+
+.image img,
+.gallery img {
+	border-radius: 3px;
+}
+
+.price {
+	margin: 10px 0;
+}
+
+.transaction > div > * {
+	display: block;
+	background: #eee;
+	border-radius: 3px;
+	line-height: 30px;
+	text-align: center;
+}
+
+#contact input,
+#contact textarea {
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	width: 95%;
+	display: block;
+	background: #eee;
+	padding: 5px 10px;
+}
+
+.gridSep {
+	border-bottom: 5px solid #eee;
+}
+
+.pagination {
+	text-align: center;
+}
+
+.pagination li {
+
+}
+
+.pagination span,
+.pagination a {
+	display: block;
+	min-width: 30px;
+	line-height: 30px;
+	color: #ff5b5b;
+	background: #eee;
+	padding: 0 5px;
+	margin: 0 5px;
+	border-radius: 3px;
+	font-weight: bolder;
+}
+
+.pagination span {
+	color: #aaa;
+}
+
+.footer {
+	color: #aaa;
+	font-size: 12px;
+	text-align: center;
+}

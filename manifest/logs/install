@@ -1,0 +1,33 @@
+============================================
+Log Created: 2016-07-31T16:47:39+02:00
+============================================
+Symphony Log
+Opened:  2016-07-31T16:47:39+02:00
+Version: 2.6.7
+Domain:  127.0.0.1/flowershop
+--------------------------------------------
+
+============================================
+INSTALLATION PROCESS STARTED (2016-07-31T16:49:51+02:00)
+============================================
+07/31/2016 4:49 pm > Notice: MYSQL: Establishing Connection
+07/31/2016 4:49 pm > Notice: MYSQL: Importing Table Schema
+07/31/2016 4:49 pm > Notice: MYSQL: Creating Default Author
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘manifest’ folder (/manifest)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘logs’ folder (/manifest/logs)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘cache’ folder (/manifest/cache)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘tmp’ folder (/manifest/tmp)
+07/31/2016 4:49 pm > Notice: WRITING: Configuration File
+07/31/2016 4:49 pm > Notice: CONFIGURING: Frontend
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘workspace’ folder (/workspace)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘data-sources’ folder (/workspace/data-sources)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘events’ folder (/workspace/events)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘pages’ folder (/workspace/pages)
+07/31/2016 4:49 pm > Notice: WRITING: Creating ‘utilities’ folder (/workspace/utilities)
+07/31/2016 4:49 pm > Notice: CONFIGURING: Installing existing extensions
+============================================
+INSTALLATION COMPLETED: Execution Time - 3 sec (31.07.16 16:49:54)
+============================================
+
+
+

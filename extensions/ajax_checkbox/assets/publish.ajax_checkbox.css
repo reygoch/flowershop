@@ -1,0 +1,27 @@
+/**
+ * Publish Ajax Checkbox script
+ * 
+ * @author: Deux Huit Huit
+ * 
+ */
+
+table.selectable td.field-checkbox input.ajax-checkbox,
+table.selectable td.field-multilingual_checkbox input.ajax-checkbox {
+	display: inline-block;
+	float: none;
+	vertical-align: middle;
+	margin-top: -1px;
+}
+
+table.selectable td.field-checkbox,
+table.selectable td.field-multilingual_checkbox {
+	position: relative;
+}
+
+table.selectable td.field-checkbox div.ajax-checkbox,
+table.selectable td.field-multilingual_checkbox div.ajax-checkbox {
+	width: 16px;
+	height: 11px;
+	background: transparent url(ajax-loader.gif) no-repeat 0px 0px;
+	display: none;
+}
