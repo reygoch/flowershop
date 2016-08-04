@@ -14,5 +14,5 @@ If you want to manually pull project and import database, than here is the login
 
 But I suggest you install it from ensemble :
 
-link to ensemble
+[link to ensemble](https://github.com/reygoch/flowershop/raw/master/flowershop.-ensemble.zip)
 
